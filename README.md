@@ -1,2 +1,2 @@
 # MachineLearning
-# It descrobes about the stock price prediction for the particular years from machine learning
+# It describes the stock price prediction for particular years from machine learning
